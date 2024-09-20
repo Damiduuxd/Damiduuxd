@@ -42,7 +42,7 @@ I'm a passionate Front-End Developer currently studying Information Systems at t
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="Cover.png" align="center" style="width: 100%" />
+<img src="Cover.png" align="center" style="width: 100% hight:100% " />
 </div>  
 
 
