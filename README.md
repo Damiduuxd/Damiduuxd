@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1eLDUX70blJ3fw2aAEUMeElodtyt-zbp_/view?usp=sharing" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/1eLDUX70blJ3fw2aAEUMeElodtyt-zbp_/view?usp=sharing" align="center" style="width: 40% " />
 </div>  
   
 
-### **<div align="center">👋 Hi, I'm Damidu Abeysinghe
+<br/>  
+ <div align="center">👋 Hi, I'm Damidu Abeysinghe
 
 I'm a passionate Front-End Developer currently studying Information Systems at the University of KDU. I enjoy crafting clean, responsive websites and improving my skills in JavaScript. 💻</div>**  
   
