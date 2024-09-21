@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Banner Image" />
+  <img src="Cover.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Damidu Abeysinghe</h1>
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiduofc&label=Profile%20views&color=0e75b6&style=flat" alt="damiduofc" /> </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Front-End+Developer;Always+learning+new+things&center=true&width=500&height=50">
 </a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Damidu Abeysinghe" /></p>
