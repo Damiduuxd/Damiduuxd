@@ -77,7 +77,6 @@
 
 -----
 
-## 🐍 Snake Eating My Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Damiduuxd/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
 </p>
