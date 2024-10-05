@@ -58,6 +58,7 @@
 </p>
 
 ## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=damiduuxd&theme=algolia" alt="damiduuxd" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
