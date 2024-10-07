@@ -94,7 +94,7 @@
     <img align="center" src="/portfolio.png" alt="Portfolio" height="50" width="50" style="margin: 0 20px;" />
   </a> 
   <a href="https://music.youtube.com/channel/UCbI8uv0SEg3wg8W2qZ4F1LQ?si=FAZVb5wsq9SnALJw" target="blank">
-    <img align="center" src="/ytmusic.png" alt="YouTube Music" height="50" width="50" style="margin: 0 20px;" />
+    <img align="center" src="/ytmusic1.png" alt="YouTube Music" height="60" width="60" style="margin: 0 20px;" />
   </a> 
   <a href="https://open.spotify.com/user/31n7ucpfn4cqgmwxhd5fa7rv4lpi" target="blank">
     <img align="center" src="/spotify.png" alt="Spotify" height="50" width="50" style="margin: 0 20px;" />
