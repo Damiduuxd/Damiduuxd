@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Next.js, Tailwind CSS, Firebase**
-- 🌱 I’m Currently an Undergraduate BSc (Hons) in Information Systems, **University of KDU  **
+- 🌱 I’m Currently an Undergraduate BSc (Hons) in Information Systems, **University of KDU**
 - ☁️ I'm exploring **front-end development and expanding my skill set with React**
 - 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS**
 - 📫 Reach me at **damiduofc@gmail.com**
