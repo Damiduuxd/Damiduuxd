@@ -2,82 +2,96 @@
   <img src="Cover.png" alt="Banner Image" />
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Damidu Abeysinghe</h1>
-<h3 align="center">A passionate Front-End Developer and Information Systems student at the University of KDU. I love crafting clean, responsive websites and constantly sharpening my JavaScript skills. 💻</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damiduofc&label=Profile%20views&color=0e75b6&style=flat" alt="damiduofc" /> </p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h1 style="display: inline-block">Hi 👋, I'm Damidu Abeysinghe</h1></summary>
+</ul>
+</div>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Front-End+Developer;Always+learning+new+things&center=true&width=500&height=50">
-</a>
-
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Damidu Abeysinghe" /></p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/damidu-abeysinghe" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="damidu-abeysinghe" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/damidu.abeysinghe.7/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="damidu.abeysinghe" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/damiduu.xd" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="damiduofc" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=damiduuxd&theme=algolia" alt="damiduuxd" /></p>
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiduuxd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="damiduuxd" height="192px"/>
-</p>
-
-
-
-## :trophy: Git profile Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=damiduuxd&layout=compact&theme=algolia" alt="damiduuxd" />
-  </a> 
-</p>
-
------
-
+<!--- snake animation --> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Damiduuxd/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
 </p>
+
+<!--h2 without bottom border--> 
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block">Learning Never Stops! 🚀</h2></summary>
+</ul>
+</div>
+
+<!--Intro start-->
+- 🔭 I’m currently working on **React, Next.js, Tailwind CSS, Firebase**
+- 🌱 I’m Currently an Undergraduate BSc (Hons) in Information Systems, **University of KDU  **
+- ☁️ I'm exploring **front-end development and expanding my skill set with React**
+- 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS**
+- 📫 Reach me at **damiduofc@gmail.com**
+- 🏠 Don't hesitate to drop me a **👋** on Discord – [damiduu.xd](https://discordapp.com/users/672000104818802688) my username!
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+<!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damiduuxd&theme=dark&show_icons=true&count_private=true" />
+<br></br>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuxd&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Damiduuxd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+</p> 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block">Technologies I Work With👨🏻‍💻</h2></summary>
+</ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,tailwind,firebase,figma,html,css,gcp,mongodb,ps&perline=14" />
+</a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+</ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/damidu-abeysinghe/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/damiduu.xd/“ target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Damiduuxd&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
