@@ -12,6 +12,12 @@
 </ul>
 </div>
 
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Front-End+Developer;Turning+caffeine+into+code&center=true&width=500&height=50" alt="Typing SVG">
+  </a>
+</div>
+
 <!--- snake animation --> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Damiduuxd/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
@@ -26,9 +32,8 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Next.js, Tailwind CSS, Firebase**
-- 🌱 I’m Currently an Undergraduate BSc (Hons) in Information Systems, **University of KDU**
+- 🌱 I’m Currently an Undergraduate **BSc (Hons) in Information Systems, University of KDU**
 - ☁️ I'm exploring **front-end development and expanding my skill set with React**
-- 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS**
 - 📫 Reach me at **damiduofc@gmail.com**
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [damiduu.xd](https://discordapp.com/users/672000104818802688) my username!
 <!--Intro end-->
