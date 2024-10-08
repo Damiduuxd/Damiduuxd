@@ -13,9 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Front-End+Developer;Turning+caffeine+into+code&center=true&width=500&height=50" alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=64CAF7&width=435&lines=Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" /></a>
 </div>
 
 <!--- snake animation --> 
