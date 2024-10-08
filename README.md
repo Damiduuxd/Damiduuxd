@@ -13,7 +13,9 @@
 </div>
 
 <div align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=64CAF7&width=435&lines=Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=64CAF7&width=435&lines=Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 <!--- snake animation --> 
