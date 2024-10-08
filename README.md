@@ -4,20 +4,13 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
+<br/>
+<!--- Readme Typing SVG --> 
 <div id="user-content-toc">
 <ul align="center">
-<summary><h1 style="display: inline-block">Hi 👋, I'm Damidu Abeysinghe</h1></summary>
-</ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Damidu+Abeysinghe;Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" /></a></ul>
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=64CAF7&width=435&lines=Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" />
-  </a>
-</div>
-
+  
 <!--- snake animation --> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Damiduuxd/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
@@ -31,11 +24,24 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Next.js, Tailwind CSS, Firebase**
-- 🌱 I’m Currently an Undergraduate **BSc (Hons) in Information Systems, University of KDU**
-- ☁️ I'm exploring **front-end development and expanding my skill set with React**
-- 📫 Reach me at **damiduofc@gmail.com**
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [damiduu.xd](https://discordapp.com/users/672000104818802688) my username!
+- 🔭 **I’m currently working on:**  
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+
+- 🌱 **Currently Pursuing:**  
+   **BSc (Hons) in Information Systems University of KDU**
+
+- ☁️ **Exploring:**  
+   Front-end development and expanding my skill set with **React**.
+
+- 📫 **Reach me at:**  
+   [![Gmail Badge](https://img.shields.io/badge/-damiduofc@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:damiduofc@gmail.com)
+
+- 🏠 **Find me on Discord:**  
+   [![Discord Badge](https://img.shields.io/badge/-damiduu.xd-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/672000104818802688)
+
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
