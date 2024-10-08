@@ -88,7 +88,7 @@
     <img align="center" src="/insta.png" alt="Instagram" height="50" width="50" style="margin: 0 20px;" />
   </a> 
   <a href="https://discordapp.com/users/672000104818802688" target="blank">
-    <img align="center" src="/discord1.png" alt="Discord" height="50" width="50" style="margin: 0 20px;" />
+    <img align="center" src="/discord1.png" alt="Discord" height="53" width="53" style="margin: 0 20px;" />
   </a> 
   <a href="https://damidusportfolio.vercel.app" target="blank">
     <img align="center" src="/portfolio.png" alt="Portfolio" height="50" width="50" style="margin: 0 20px;" />
