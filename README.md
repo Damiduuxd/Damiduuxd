@@ -1,146 +1,225 @@
-<p align="center">
-  <img src="Cover.png" alt="Banner Image" />
-</p>
+<!-- ======================= HERO ======================= -->
 
-<!--horizontal divider(gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+<img src="Cover.png" width="100%" alt="Damidu Abeysinghe Banner"/>
+
 <br/>
 
-<!--- Readme Typing SVG --> 
-<div id="user-content-toc">
-<ul align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1200&color=A9FEF7&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Damidu+Abeysinghe;Information+Systems+Student;Frontend+Developer;Turning+Caffeine+Into+Code+%E2%98%95;Building+Amazing+Web+Experiences" alt="Typing SVG" /></a></ul>
-</div>
-  
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Damidu+Abeysinghe+%F0%9F%91%8B;Information+Systems+Undergraduate;Frontend+Developer;UI%2FUX+Enthusiast;Building+Digital+Experiences+%E2%9C%A8" />
 
-## 🚀 About Me
+<br/><br/>
 
-I’m an **Information Systems undergraduate at General Sir John Kotelawala Defence University (KDU)** with a strong passion for **frontend development and modern web technologies**.
-
-I enjoy crafting **clean, responsive, and user-focused interfaces**, primarily using **React, Next.js, and modern CSS frameworks**. I’m constantly learning, experimenting, and pushing myself to build impactful projects that combine **performance, usability, and aesthetics**.
-
-🔹 Currently exploring **advanced React patterns and Next.js 14**  
-🔹 Actively working on **real-world and academic projects**  
-🔹 Interested in **open-source contributions and collaborative development**  
-🔹 Fun fact: *I turn caffeine into code* ☕
-
-
-<!--- GitHub Stats Section -->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h2 style="display: inline-block; font-family: 'Arial Black', sans-serif; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📊 GitHub Analytics & Performance</h2></summary>
-</ul>
-</div>
-
-
-
-
-## 📊 GitHub Analytics & Performance
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Damiduuofc&theme=omni&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Damiduuofc&theme=omni&hide_border=true&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Damiduuofc&theme=omni&hide_border=true&layout=donut&custom_title=Most%20Used%20Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damiduuofc&theme=omni" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damiduuofc&theme=omni" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damiduuofc&theme=omni&utcOffset=5" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damiduuofc&theme=omni" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&theme=omni&hide_border=true&area=true" />
-</p>
-
-
-
-
-
-
-<!--Tech Stack Section-->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h2 style="display: inline-block; font-family: 'Impact', sans-serif; letter-spacing: 2px;">🛠️ Technologies & Tools Arsenal</h2></summary>
-</ul>
-</div>
-
-<div align="center">
-
-**🎨 Frontend Development:**
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&perline=8" />
+<a href="https://damidu.me">
+<img src="https://img.shields.io/badge/Portfolio-0A1D47?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7"/>
 </a>
-</p>
-
-**⚙️ Backend & Database:**
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,firebase,mongodb,mysql&perline=3" />
+<a href="https://www.linkedin.com/in/damidu-abeysinghe/">
+<img src="https://img.shields.io/badge/LinkedIn-0A1D47?style=for-the-badge&logo=linkedin&logoColor=4FC3F7"/>
 </a>
-</p>
-
-**🎯 Design & Cloud:**
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma,ps&perline=3" />
+<a href="mailto:damiduofc@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A1D47?style=for-the-badge&logo=gmail&logoColor=4FC3F7"/>
 </a>
-</p>
+<a href="https://github.com/Damiduuofc">
+<img src="https://img.shields.io/badge/GitHub-0A1D47?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Damiduuofc&label=PROFILE%20VIEWS&color=4FC3F7&style=flat-square"/>
 
 </div>
 
-<!-- Contact Section -->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h2 style="display: inline-block; font-family: 'Trebuchet MS', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📫 Let's Connect & Collaborate!</h2></summary>
-</ul>
-</div>
+<br/>
 
-<p align="center">
-  <a href="mailto:damiduofc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-damiduofc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/damidu-abeysinghe/">
-    <img src="https://img.shields.io/badge/LinkedIn-Damidu_Abeysinghe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/672000104818802688">
-    <img src="https://img.shields.io/badge/Discord-damiduuofc-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://damidu.me">
-    <img src="https://img.shields.io/badge/Portfolio-damidu.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<!-- ======================= DIVIDER ======================= -->
 
-<!--Profile Stats-->
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Damiduuofc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Damiduuofc?logo=github&style=for-the-badge&color=fbbf24&labelColor=1c1917&label=TOTAL+STARS)
-
-</div>
-
-<!--Footer Wave-->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
-</div>
-
-<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ======================= ABOUT ======================= -->
+
+<h2 align="center">⌁ About Me</h2>
+
+<div align="center">
+
+### Building interfaces where design meets technology.
+
+</div>
+
+<br/>
+
+I'm an **Information Systems undergraduate at General Sir John Kotelawala Defence University (KDU)** with a strong interest in **frontend development, UI/UX design, and modern web technologies**.
+
+I enjoy transforming ideas into **clean, responsive, interactive digital experiences**. My focus is not just making applications work — but making them **feel intuitive, polished, and enjoyable to use**.
+
+<br/>
+
+<div align="center">
+
+| 🔭 Currently | 🎯 Focus |
+|:---:|:---:|
+| Building real-world projects | Frontend Engineering |
+| Exploring modern React | UI/UX & Interaction |
+| Working with Next.js | Scalable Web Applications |
+
+</div>
+
+<br/>
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<br/>
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&perline=8"/>
+
+<br/><br/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java&perline=6"/>
+
+<br/><br/>
+
+### Design & Development Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode&perline=5"/>
+
+</div>
+
+<br/>
+
+<!-- ======================= WHAT I BUILD ======================= -->
+
+<h2 align="center">✦ What I Build</h2>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🖥️ Web Apps
+
+Modern, responsive and scalable web applications using React and Next.js.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎨 UI / UX
+
+Minimal interfaces focused on usability, hierarchy and meaningful interactions.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Digital Products
+
+Turning ideas into functional products with clean architecture and polished experiences.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ======================= GITHUB ======================= -->
+
+<h2 align="center">⌘ GitHub Activity</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Damiduuofc&theme=transparent&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Damiduuofc&show_icons=true&hide_border=true&theme=transparent&title_color=4FC3F7&icon_color=4FC3F7&text_color=9CA3AF&bg_color=00000000"/>
+
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Damiduuofc&layout=compact&hide_border=true&theme=transparent&title_color=4FC3F7&text_color=9CA3AF&bg_color=00000000"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&bg_color=00000000&color=9CA3AF&line=4FC3F7&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+<br/>
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+<h2 align="center">◈ Currently Exploring</h2>
+
+<br/>
+
+<div align="center">
+
+`Advanced React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `UI/UX` &nbsp; `System Design`
+
+</div>
+
+<br/><br/>
+
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">Let's Build Something Together.</h2>
+
+<p align="center">
+I'm always interested in building interesting products,<br/>
+experimenting with new technologies and collaborating on meaningful ideas.
+</p>
+
+<br/>
+
+<div align="center">
+
+<a href="https://damidu.me">
+<img src="https://img.shields.io/badge/🌐_Portfolio-0A1D47?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/damidu-abeysinghe/">
+<img src="https://img.shields.io/badge/LinkedIn-0A1D47?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="mailto:damiduofc@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A1D47?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<!-- ======================= FOOTER ======================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1D47,50:123B73,100:4FC3F7&height=120&section=footer"/>
+
+</div>
